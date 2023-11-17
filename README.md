@@ -1,2 +1,1 @@
-# net-playground
-.NET Playground
+# .NET Playground
